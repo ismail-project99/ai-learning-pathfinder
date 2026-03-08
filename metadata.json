@@ -1,0 +1,5 @@
+{
+  "name": "Pathfinder AI",
+  "description": "Premium AI Learning Path Generator with interactive DAG roadmaps and real-time mentoring.",
+  "requestFramePermissions": ["microphone"]
+}
